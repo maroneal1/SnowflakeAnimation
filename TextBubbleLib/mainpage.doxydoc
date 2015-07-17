@@ -1,0 +1,8 @@
+/** \mainpage Text Bubble System
+ *
+ * \section intro_sec Introduction
+ *
+ * This TextBubble system is a class for displaying simple Text Bubbles on the
+ * screen. It has a dialog box to support editing the contents of a text bubble
+ * as well. 
+ */
